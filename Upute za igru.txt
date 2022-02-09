@@ -1,0 +1,4 @@
+Upute za igru
+	da bi makunli sva vrata stisnite G, a da ih vratite stisnite H
+	cilj je da dogurate kutiju do njene zone i pokupiti sve coinove i otvoriti chest
+	
